@@ -1,0 +1,14 @@
+{
+    "name": "artemijdeleto/api-extensions-bundle",
+    "type": "library",
+    "description": "Set of Symfony extensions to improve API development",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Deleto\\VersioningBundle\\": "src/"
+        }
+    },
+    "require": {
+        "symfony/framework-bundle": "^6.0"
+    }
+}
