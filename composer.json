@@ -9,6 +9,6 @@
         }
     },
     "require": {
-        "symfony/framework-bundle": "^6.0"
+        "symfony/framework-bundle": "^5.0"
     }
 }
